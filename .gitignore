@@ -1,0 +1,4 @@
+**/bin
+.env
+**/.idea
+**/node_modules
